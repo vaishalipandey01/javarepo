@@ -1,0 +1,190 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "linkedlist",
+            "request": "launch",
+            "mainClass": "linkedlist",
+            "projectName": "javabasics_59f5135d"
+        },
+        {
+            "type": "java",
+            "name": "text",
+            "request": "launch",
+            "mainClass": "text",
+            "projectName": "javabasics_59f5135d"
+        },
+        {
+            "type": "java",
+            "name": "BinaryTreesB",
+            "request": "launch",
+            "mainClass": "BinaryTreesB",
+            "projectName": "javabasics_59f5135d"
+        },
+        {
+            "type": "java",
+            "name": "binarytreeb",
+            "request": "launch",
+            "mainClass": "binarytreeb",
+            "projectName": "javabasics_59f5135d"
+        },
+        {
+            "type": "java",
+            "name": "recursion",
+            "request": "launch",
+            "mainClass": "recursion",
+            "projectName": "javabasics_59f5135d"
+        },
+        {
+            "type": "java",
+            "name": "OOPS",
+            "request": "launch",
+            "mainClass": "OOPS",
+            "projectName": "javabasics_59f5135d"
+        },
+        {
+            "type": "java",
+            "name": "bitmanipulation",
+            "request": "launch",
+            "mainClass": "bitmanipulation",
+            "projectName": "javabasics_59f5135d"
+        },
+        {
+            "type": "java",
+            "name": "string",
+            "request": "launch",
+            "mainClass": "string",
+            "projectName": "javabasics_59f5135d"
+        },
+        {
+            "type": "java",
+            "name": "twodarr",
+            "request": "launch",
+            "mainClass": "nextlevelarr.twodarr",
+            "projectName": "javabasics_59f5135d"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "javabasics_59f5135d"
+        },
+        {
+            "type": "java",
+            "name": "sorting",
+            "request": "launch",
+            "mainClass": "sorting",
+            "projectName": "javabasics_59f5135d"
+        },
+        {
+            "type": "java",
+            "name": "check",
+            "request": "launch",
+            "mainClass": "check",
+            "projectName": "javabasics_59f5135d"
+        },
+        {
+            "type": "java",
+            "name": "vp",
+            "request": "launch",
+            "mainClass": "vp",
+            "projectName": "javabasics_59f5135d"
+        },
+        {
+            "type": "java",
+            "name": "copy",
+            "request": "launch",
+            "mainClass": "copy",
+            "projectName": "javabasics_59f5135d"
+        },
+        {
+            "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "array",
+            "projectName": "javabasics_59f5135d"
+        },
+        {
+            "type": "java",
+            "name": "functions",
+            "request": "launch",
+            "mainClass": "functions",
+            "projectName": "javabasics_59f5135d"
+        },
+        {
+            "type": "java",
+            "name": "revision",
+            "request": "launch",
+            "mainClass": "revision",
+            "projectName": "javabasics_59f5135d"
+        },
+        {
+            "type": "java",
+            "name": "basicwork",
+            "request": "launch",
+            "mainClass": "basicwork",
+            "projectName": "javabasics_59f5135d"
+        },
+        {
+            "type": "java",
+            "name": "javabsics",
+            "request": "launch",
+            "mainClass": "javabsics",
+            "projectName": "javabasics_59f5135d"
+        },
+        {
+            "name": "C/C++: gcc build and debug active file",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${fileDirname}/${fileBasenameNoExtension}",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                },
+                {
+                    "description": "Set Disassembly Flavor to Intel",
+                    "text": "-gdb-set disassembly-flavor intel",
+                    "ignoreFailures": true
+                }
+            ],
+            "preLaunchTask": "C/C++: gcc build active file",
+            "miDebuggerPath": "/usr/bin/gdb"
+        },
+        {
+            "name": "C/C++: g++ build and debug active file",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${fileDirname}/${fileBasenameNoExtension}",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                },
+                {
+                    "description": "Set Disassembly Flavor to Intel",
+                    "text": "-gdb-set disassembly-flavor intel",
+                    "ignoreFailures": true
+                }
+            ],
+            "preLaunchTask": "C/C++: g++ build active file",
+            "miDebuggerPath": "/usr/bin/gdb"
+        }
+    ]
+}
